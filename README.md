@@ -14,7 +14,7 @@ Atualmente estou desenvolvendo meu conhecimento sobre: <br>
 
 Minhas redes:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KeySpector1462)](https://github.com/KeySpector1462) [![instagram Badge](https://img.shields.io/badge/-instagram-bluehex?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiquepereira0_0)](https://instagram.com/kaiquepereira0_0)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KeySpector1462)](https://github.com/KeySpector1462) [![instagram Badge](https://img.shields.io/badge/-instagram-purpleblue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiquepereira0_0)](https://instagram.com/kaiquepereira0_0)
 
 
 <hr>
