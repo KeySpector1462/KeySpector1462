@@ -15,3 +15,10 @@ Atualmente estou desenvolvendo meu conhecimento sobre: <br>
 Minhas redes:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KeySpector1462)](https://github.com/KeySpector1462)
+
+<hr>
+
+Minhas estatísticas:
+
+[![KeySpector1462 GitHub stats](https://github-readme-stats.vercel.app/api?username=KeySpector1462)](https://github.com/KeySpector1462/github-readme-stats)
+
