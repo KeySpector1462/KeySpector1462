@@ -4,7 +4,7 @@ Bem vindo! 🖐️
 
 Olá! Eu me chamo Key Spetor🌙.
 
-Atualmente estou desenvolvendo meu conhecimento sobre:
+Atualmente estou desenvolvendo meu conhecimento sobre: <br>
 💻 Programação front-end <br>
 🖥️ Programação back-end <br>
 📱  Programação mobile <br>
