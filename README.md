@@ -14,4 +14,4 @@ Atualmente estou desenvolvendo meu conhecimento sobre: <br>
 
 Minhas redes:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KeySpector1462)](https://github.com/KeySpector1462).
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KeySpector1462)](https://github.com/KeySpector1462)
