@@ -23,7 +23,7 @@ Minhas estatísticas:
 
 [![KeySpector1462 GitHub stats](https://github-readme-stats.vercel.app/api?username=KeySpector1462&theme=gruvbox)](https://github.com/KeySpector1462/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeySpector1462&layout=pie)](https://github.com/KeySpector1462/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeySpector1462&layout=donut)](https://github.com/KeySpector1462/github-readme-stats)
 
 <hr>
 
